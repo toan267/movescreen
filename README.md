@@ -28,7 +28,7 @@ Go to *Setting* -> *Keyboard* -> *Application shortcuts* then add one shortcut f
 ## Depends on
  - `python`
  - `xrandr`
- - `xwininfo`
+ - `xwininfo` (xorg-xwininfo đối với manjaro)
  - `wmctrl` (not installed by default on Ubuntu, try `sudo apt-get install wmctrl` )
  - `xdotool` (for mouse cursor)
 
